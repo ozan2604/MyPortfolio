@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\ozan\\desktop\\c# projeleri\\myportfolio\\myportfolio\\dal\\context\\myportfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\dal\\context\\myportfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\ozan\\desktop\\c# projeleri\\myportfolio\\myportfolio\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\views\\skill\\skilllist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\skill\\skilllist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\views\\skill\\createskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\skill\\createskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\views\\experience\\createexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\experience\\createexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\views\\shared\\components\\_layoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_layoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\views\\shared\\components\\_layoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_layoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\views\\skill\\updateskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\skill\\updateskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\views\\experience\\updateexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\experience\\updateexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\views\\experience\\experiencelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\experience\\experiencelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\dal\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\dal\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\views\\todolist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\todolist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\views\\todolist\\updatetodolist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\todolist\\updatetodolist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\views\\todolist\\createtodolist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\todolist\\createtodolist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\views\\message\\inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\message\\inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\views\\message\\messagedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\message\\messagedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\views\\statistic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\statistic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\views\\shared\\components\\_experiencecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_experiencecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\myportfolio\\viewcomponents\\_skillcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCF5B3D-8553-4563-B363-797E69A5D6D5}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\viewcomponents\\_skillcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyPortfolioContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\DAL\\Context\\MyPortfolioContext.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\DAL\\Context\\MyPortfolioContext.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\DAL\\Context\\MyPortfolioContext.cs",
+              "RelativeToolTip": "MyPortfolio\\DAL\\Context\\MyPortfolioContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:18:37.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T20:38:02.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateSkill.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Skill\\CreateSkill.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Skill\\CreateSkill.cshtml",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Skill\\CreateSkill.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Skill\\CreateSkill.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T20:41:54.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateExperience.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Experience\\CreateExperience.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Experience\\CreateExperience.cshtml",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Experience\\CreateExperience.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Experience\\CreateExperience.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwCgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T10:01:42.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T10:15:04.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SkillList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Skill\\SkillList.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Skill\\SkillList.cshtml",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Skill\\SkillList.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Skill\\SkillList.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T20:28:34.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T20:39:47.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateSkill.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Skill\\UpdateSkill.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Skill\\UpdateSkill.cshtml",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Skill\\UpdateSkill.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Skill\\UpdateSkill.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T20:35:32.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExperienceController.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Controllers\\ExperienceController.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\Controllers\\ExperienceController.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Controllers\\ExperienceController.cs",
+              "RelativeToolTip": "MyPortfolio\\Controllers\\ExperienceController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:05:32.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SkillController.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Controllers\\SkillController.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\Controllers\\SkillController.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Controllers\\SkillController.cs",
+              "RelativeToolTip": "MyPortfolio\\Controllers\\SkillController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T20:22:00.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExperienceList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Experience\\ExperienceList.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Experience\\ExperienceList.cshtml",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Experience\\ExperienceList.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Experience\\ExperienceList.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswBoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T22:06:34.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\DAL\\Entities\\Skill.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\DAL\\Entities\\Skill.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\DAL\\Entities\\Skill.cs",
+              "RelativeToolTip": "MyPortfolio\\DAL\\Entities\\Skill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:49:36.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateExperience.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Experience\\UpdateExperience.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Experience\\UpdateExperience.cshtml",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Experience\\UpdateExperience.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Experience\\UpdateExperience.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswCgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T10:11:15.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StatisticController.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Controllers\\StatisticController.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\Controllers\\StatisticController.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Controllers\\StatisticController.cs",
+              "RelativeToolTip": "MyPortfolio\\Controllers\\StatisticController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:18:57.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ToDoListController.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Controllers\\ToDoListController.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\Controllers\\ToDoListController.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Controllers\\ToDoListController.cs",
+              "RelativeToolTip": "MyPortfolio\\Controllers\\ToDoListController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA5wDAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:02:01.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\ToDoList\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\ToDoList\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\ToDoList\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\ToDoList\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwCIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T11:04:56.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateToDoList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\ToDoList\\CreateToDoList.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\ToDoList\\CreateToDoList.cshtml",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\ToDoList\\CreateToDoList.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\ToDoList\\CreateToDoList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T11:09:44.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateToDoList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\ToDoList\\UpdateToDoList.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\ToDoList\\UpdateToDoList.cshtml",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\ToDoList\\UpdateToDoList.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\ToDoList\\UpdateToDoList.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T11:11:20.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Inbox.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Message\\Inbox.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Message\\Inbox.cshtml",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Message\\Inbox.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Message\\Inbox.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T10:46:49.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MessageDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Message\\MessageDetail.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Message\\MessageDetail.cshtml",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Message\\MessageDetail.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Message\\MessageDetail.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T10:55:36.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Statistic\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Statistic\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Statistic\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Statistic\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T10:19:55.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_ExperienceComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_ExperienceComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_ExperienceComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_ExperienceComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T21:46:18.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_SkillComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\ViewComponents\\_SkillComponentPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\ViewComponents\\_SkillComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\C# Projeleri\\MyPortfolio\\MyPortfolio\\ViewComponents\\_SkillComponentPartial.cs",
+              "RelativeToolTip": "MyPortfolio\\ViewComponents\\_SkillComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:27:17.953Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
